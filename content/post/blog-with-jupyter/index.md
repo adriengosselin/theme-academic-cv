@@ -1,5 +1,5 @@
 ---
-title: JE CHANGE POUR VOIR 
+title: JE CHANGE POUR
 date: '2023-11-04'
 summary: Easily blog from Jupyter notebooks!
 ---
